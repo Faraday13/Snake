@@ -1,0 +1,31 @@
+body{
+    background-color: #000;
+}
+#settings{
+    width: 1200px;
+    height: 200px;
+}
+#start{
+    width: 70px;
+    height: 25px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border: none;
+}
+.matrix{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.cell{
+    background-color: yellow;
+}
+.player{
+    background-color: black;
+}
+.wall{
+    background-color: red;
+}
+.food{
+    background-color: green;
+}
